@@ -15,7 +15,7 @@
 
 
 ### 📌 Featured Projects  
-- [Portfolio Website]((https://lnkd.in/eGMaAUpR))
+- [Portfolio Website](https://lnkd.in/eGMaAUpR)
 
 
 📫 **Contact me:**  
