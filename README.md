@@ -19,8 +19,6 @@
 
 ### 📌 Featured Projects  
 - [Portfolio Website](https://lnkd.in/eGMaAUpR) – Personal portfolio built with React showcasing my work and projects.  
-- [Task Manager App](https://github.com/Umaimazainab02/task-manager) – A Python GUI application to manage daily tasks.  
-- [AND Gate in Verilog](https://github.com/Umaimazainab02/and-gate-verilog) – Digital logic design project implementing AND gate in Verilog.
 
 ---
 
