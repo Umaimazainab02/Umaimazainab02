@@ -19,4 +19,4 @@
 
 
 📫 **Contact me:**  
-[LinkedIn]((https://www.linkedin.com/in/umaima-zainab-8bb76732a/)) | [Email](umaimazainab429@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/umaima-zainab-8bb76732a/) | [Email](mailto:umaimazainab429@gmail.com)
