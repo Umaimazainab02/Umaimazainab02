@@ -28,7 +28,6 @@
 ---
 
 ### 📊 GitHub Stats  
-
 <p float="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Umaimazainab02&show_icons=true&theme=radical" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umaimazainab02&layout=compact&theme=radical" height="150"/>
