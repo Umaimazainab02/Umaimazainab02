@@ -18,12 +18,12 @@
 ---
 
 ### 📌 Featured Projects  
-- [Portfolio Website] https://umaimazainab02.github.io/Umaimazainab02/ – Personal portfolio built with React showcasing my work and projects.  
+- [Portfolio Website] https://umaimazainab02.github.io/umaima-portfolio/– Personal portfolio built with React showcasing my work and projects.  
 
 ---
 
 ### 📫 Contact Me  
-[LinkedIn]( https://umaimazainab02.github.io/umaima-portfolio/) | [Email](mailto:umaimazainab429@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/umaima-zainab-8bb76732a/) | [Email](mailto:umaimazainab429@gmail.com)
 
 ---
 
