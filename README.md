@@ -25,6 +25,10 @@
 - [Portfolio Website](https://umaimazainab02.github.io/umaima-portfolio/)– Personal portfolio built with React showcasing my work and projects.  
 
 ---
+## 📫 Connect with me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umaima-zainab-8bb76732a/) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:umaimazainab429@gmail.com)
 
 
 
