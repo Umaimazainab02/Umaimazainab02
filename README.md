@@ -30,6 +30,13 @@
 
 ---
 
+## 📌 Featured Projects  
+
+| Project | Description |
+|---------|-------------|
+| [Portfolio Website](https://umaimazainab02.github.io/umaima-portfolio/) | Personal portfolio built with HTML/CSS/JS showcasing my work and projects. |
+
+
 ### 📫 Contact Me  
 [LinkedIn](https://www.linkedin.com/in/umaima-zainab-8bb76732a/) | [Email](mailto:umaimazainab429@gmail.com)
 
