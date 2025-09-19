@@ -41,12 +41,9 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Umaimazainab02&layout=compact&theme=radical)
 
-## 🔥 Current GitHub Streak  
+## 🔥 GitHub Streak  
 
-<div align="left">
-  
-![Umaima's GitHub Streak](https://streak-stats.demolab.com?user=Umaimazainab02&theme=radical&hide_border=true&date_format=%5BY%5D-%5Bm%5D-%5Bd%5D)
-
-</div>
-
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=Umaimazainab02&theme=radical" alt="Umaima's GitHub Streak"/>
+</p>
 
