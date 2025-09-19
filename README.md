@@ -18,7 +18,7 @@
 ---
 
 ### 📌 Featured Projects  
-- [Portfolio Website] https://umaimazainab02.github.io/umaima-portfolio/– Personal portfolio built with React showcasing my work and projects.  
+- [Portfolio Website](https://umaimazainab02.github.io/umaima-portfolio/)– Personal portfolio built with React showcasing my work and projects.  
 
 ---
 
