@@ -1,7 +1,7 @@
 # Hi, I'm Umaima 👋  
 
 🎓 **AI Student** at Islamia University of Bahawalpur  
-💻 **Front-End Developer** | React | JavaScript | TailwindCSS  
+💻 **Front-End Developer** | JavaScript | TailwindCSS  
 
 ---
 
