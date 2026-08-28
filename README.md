@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="30"/>
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/React-E34F26?style=flat&logo=html5&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" height="30"/>
 
 </p>
 
