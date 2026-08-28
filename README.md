@@ -1,7 +1,7 @@
 # Hi, I'm Umaima 👋  
 
 🎓 **AI Student** at Islamia University of Bahawalpur  
-💻 **Front-End Developer** | JavaScript | TailwindCSS  
+💻 **Front-End Developer** | JavaScript | TailwindCSS | React |
 
 ---
 
@@ -23,7 +23,7 @@
 
 
 ### 📌 Featured Projects  
-- [Portfolio Website](https://umaimazainab02.github.io/umaima-portfolio/)– Personal portfolio built with React showcasing my work and projects.  
+* [Portfolio Website](https://umaima-project-2-n1nf.vercel.app/) – Personal portfolio built with React, showcasing my work and projects.
 
 ---
 ## 📫 Connect with me  
